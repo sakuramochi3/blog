@@ -10,4 +10,18 @@ weight = 1
 ## 🌳Links
 - 🐘[Mastodon](https://fedibird.com/@cranberry)
 - 📕[rednote](https://www.xiaohongshu.com/user/profile/68733a3f000000001d0096c7)
-- 📧[E-mail](mailto:chihiro@ametrine.addymail.com)(たまに見る)
+- 💌[E-Mail](/contact)
+
+{{< tiny-notes >}}
++ フセンコーナー始めました。
+  + 2025年3月29日
+
+
++ 映画 プロジェクト・ヘイル・メアリー見た！🎞️😀
+  + 2025年3月20日
+
++ MacBook Neo買った。mac使うの初めてだけど超便利。もっと早くに買っときゃ良かったな。👩‍💻
+  + 2025年3月
+
+
+{{< /tiny-notes >}}

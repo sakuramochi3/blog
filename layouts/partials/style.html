@@ -170,4 +170,83 @@
     }
   }
 
+/* tiny notes */
+:root {
+  --light-notes-bg: #fffaf3;
+  --light-notes-shadow: rgba(0, 0, 0, .075);
+
+  --dark-notes-bg: #26233a;
+  --dark-notes-shadow: rgba(0, 0, 0, .3);
+}
+.tiny-notes {
+  width: 90vw;
+  position: relative;
+  left: calc(-45vw + 50%);
+}
+.tiny-notes ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1em;
+}
+.tiny-notes > ul {
+  display: flex;
+  gap: .5em;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3em 0;
+}
+.tiny-notes > ul > li {
+  width: 175px;
+  height: 175px;
+  padding: 2em;
+  background-color: light-dark(var(--light-notes-bg), var(--dark-notes-bg));
+  box-shadow: 0px 3px 3px light-dark(var(--light-notes-shadow), var(--dark-notes-shadow));
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.tiny-notes > ul > li p {
+  margin: 0;
+  line-height: 1;
+}
+.tiny-notes > ul > li > ul {
+  font-size: .875rem;
+  font-style: italic;
+}
+/* Rotation */
+.tiny-notes > ul > li:first-child {
+  rotate: -3deg;
+}
+.tiny-notes > ul > li:nth-child(odd) {
+  margin-right: 1em;
+}
+.tiny-notes > ul > li:nth-child(even) {
+  rotate: -1deg;
+  margin-top: 1em;
+}
+.tiny-notes > ul > li:nth-child(3n) {
+  rotate: -3deg;
+}
+.tiny-notes > ul > li:nth-child(5n) {
+  rotate: 1deg;
+  margin-top: 1.5em;
+}
+.tiny-notes > ul > li:nth-child(7n) {
+  rotate: 4deg;
+  margin-bottom: 1em;
+}
+.tiny-notes > ul > li:nth-child(11n) {
+  rotate: 2deg;
+  margin-top: .5em;
+}
+.tiny-notes > ul > li:nth-child(3),
+.tiny-notes > ul > li:nth-child(13n) {
+  rotate: 6deg;
+}
+.tiny-notes> ul > li:nth-child(17n) {
+  rotate: -5deg;
+}
+
 </style>
