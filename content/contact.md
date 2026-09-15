@@ -6,6 +6,6 @@ weight = 20
 
 **E-Mail💌**
 
-![](/images/banner_600x100.png)
+![](/images/02w4x.png)
 
 スパム避けのために画像にしてます🙏
