@@ -5,15 +5,11 @@ weight = 1
 +++
 
 ## About
-岡山のそこそこ便利な田舎で暮らす。ファービーを集めて直したり、たまに絵を描いたり色々する。フェディバースにもいるよ。
+岡山のそこそこ便利な田舎で暮らす。ファービーを集めて直したり、たまに絵を描いたり色々する。
 
 良かったものとか近況についての記事書きます💪✏️ 
 
-## Links
-- 🐘[Mastodon](https://fedibird.com/@cranberry)
-- 💌[E-Mail](/contact)
 
-{{< recent >}}
 {{< tiny-notes >}}
 + イモムシ🐛が多い。黒いのとか緑のとかおる。動くの早い。家の敷地に入ってこないでほしい🙏
 	+ 2026.10
@@ -24,3 +20,7 @@ weight = 1
   + 2026.5.3
 
 {{< /tiny-notes >}}
+{{< recent >}}
+## Links
+- 🐘[Mastodon](https://fedibird.com/@cranberry)
+- 💌[E-Mail](/contact)
