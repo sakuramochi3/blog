@@ -14,4 +14,4 @@ weight: 100
 ### Needy Girl Overdoseっぽいやつ
 ゲームについてはよく知らないけどUIがかわいいからテーマにした。レトロカワイイね。壁紙は同梱されてないので、各自検索して良さげなのを適用してください。
 ![](needy-girl-theme.jpg)
-[ダウンロードする](https://blog.jasminetea.uk/omiyage/needy_girl_akkoma_theme.zip)
+[ダウンロードする](https://chihiro.shigitani.me/omiyage/needy_girl_akkoma_theme.zip)
